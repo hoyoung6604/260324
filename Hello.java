@@ -14,7 +14,7 @@ public class Hello {
 	
 	public static void main(String[] args) {
 		Hello hello = new Hello(); //new 키워드를 사용해 객체 생성
-		hello.print("Java");
+		hello.print("Java!");
 		
 	}
 
